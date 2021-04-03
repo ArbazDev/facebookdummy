@@ -1,0 +1,118 @@
+
+.block1 {
+    background-color: #405e9b;
+    height: 120px;
+    margin-bottom: 0px;
+}
+.head{
+    position: relative;
+    color: aliceblue;
+    float: left;
+    margin-top: 50px;
+    font-family: sans-serif;
+    margin-left: 120px;
+}
+
+.box1{
+    float: right;
+    color: aliceblue;
+    font-family: sans-serif;
+    margin-right: 285px;
+    margin-top: 50px;
+}
+.box2{
+    float: right;
+    color: aliceblue;
+    font-family: sans-serif;
+    margin-right:15px;
+    margin-top: 50px;
+}
+.forgetpass{
+    margin-top: 7px;
+    color: aliceblue;
+}
+
+.btn{
+    float: right;
+    margin-top: 65px;
+    margin-right: -400px;
+}
+.btndes{
+    color: aliceblue;
+    background-color: #405e9b;
+    height: 35px;
+    width: 50px;
+    border-color: #012672;
+}
+.block2{
+    background-color: rgba(224, 228, 239, 0.89);
+    height: 670px;
+}
+
+.desc{ 
+    color: #3b5998; 
+    margin-left: 120px; 
+    font-size: 25px; 
+} 
+
+.image{ 
+    margin-left: 220px; 
+    height: 200px; 
+    width: 600px; 
+}
+.block3{
+    float: right;
+}
+.head1{
+    margin-top:-260px; 
+    margin-right: 100px;
+    font-family: sans-serif
+}
+
+.box3{
+    height: 40px;
+    float: left;
+    border-radius: 10px;
+}
+.box4{
+    height: 40px;
+    float: left;
+    margin-left: 4px;
+    border-radius: 10px;
+}
+.box5{
+    margin-top: 10px;
+    height: 40px;
+    border-radius: 10px;
+}
+.box6{
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.box7{
+    margin-top: 80px;
+}
+
+.btn1des{
+    height: 60px;
+    width: 300px;
+    background-color: #5f9b4c;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.btn1 {
+    
+}
